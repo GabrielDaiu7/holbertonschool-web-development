@@ -224,6 +224,7 @@ header nav a {
     display: flex;
     align-items: center;
     margin-bottom: 8px;
+    float: left;
 }
 
 .v-card .rating img {
@@ -235,6 +236,7 @@ header nav a {
     color: #C271FF;
     font-weight: 600;
     text-align: right;
+    float: right;
 }
 .stack {
     position: relative;
